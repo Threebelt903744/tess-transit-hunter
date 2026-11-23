@@ -1,1 +1,7 @@
-
+Libraries required:
+lightkurve
+astropy
+numpy
+scipy
+matplotlib
+jupyter
